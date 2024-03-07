@@ -1,0 +1,1 @@
+This projects marks my first attempt at creating an API on my own. Api will server as a forum.
