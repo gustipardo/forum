@@ -1,0 +1,43 @@
+{
+    "forum": {
+      "topics": [
+        {
+          "topic_id": 1,
+          "author": "JohnDoe",
+          "title": "Favorite Programming Languages",
+          "content": "What is your favorite programming language and why?",
+          "responses": [
+            {
+              "response_id": 1,
+              "author": "JaneSmith",
+              "content": "I love Python because of its simplicity and versatility."
+            },
+            {
+              "response_id": 2,
+              "author": "TechGuy123",
+              "content": "I prefer Java for its performance and strong ecosystem."
+            }
+          ]
+        },
+        {
+          "topic_id": 2,
+          "author": "AliceWonder",
+          "title": "Best Places to Travel",
+          "content": "Share your favorite travel destinations and experiences!",
+          "responses": [
+            {
+              "response_id": 1,
+              "author": "TravelBug22",
+              "content": "I highly recommend visiting Kyoto, Japan for its rich culture and stunning scenery."
+            },
+            {
+              "response_id": 2,
+              "author": "Globetrotter99",
+              "content": "I had an amazing time exploring the beaches of Bali, Indonesia."
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

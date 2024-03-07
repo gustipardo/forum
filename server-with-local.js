@@ -1,5 +1,5 @@
-import { createApp } from "./app.js";
-import { MovieModel } from "./models/local-file-system/movie.js";
+import { createApp } from './app.js'
+import { ForumModel } from './models/local-file-system/forum.js'
 
 // Creamos un servidor con mySQL
-createApp({ movieModel: MovieModel });
+createApp({ forumModel: ForumModel })
